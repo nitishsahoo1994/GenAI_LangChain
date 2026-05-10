@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CopilotDiffPersistence">
+    <option name="pendingDiffs">
+      <map>
+        <entry key="/lst (snapshot).py">
+          <value>
+            <PendingDiffInfo>
+              <option name="filePath" value="/lst (snapshot).py" />
+              <option name="originalContent" value="lst=['apple','milk','banana']&#10;print(sorted(list(enumerate(lst))),key= lambda x:x[1])" />
+              <option name="updatedContent" value="lst=['apple','milk','banana']&#10;print(sorted(list(enumerate(lst)), key=lambda x:x[1]))" />
+            </PendingDiffInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
